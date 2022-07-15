@@ -6,8 +6,8 @@ Section 3 (The TypeScript Compiler) covered:
 
 - [x] Using "Watch Mode"
 - [x] Compiling the Entire Project / Multiple Files
-- [ ] Including & Excluding Files
-- [ ] Setting a Compilation Target
+- [x] Including & Excluding Files
+- [x] Setting a Compilation Target
 - [ ] Understanding TypeScript Core Libs
 - [ ] More Configuration & Compilation Options
 - [ ] Working with Source Maps
