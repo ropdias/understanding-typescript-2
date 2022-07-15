@@ -9,7 +9,7 @@ Section 3 (The TypeScript Compiler) covered:
 - [x] Including & Excluding Files
 - [x] Setting a Compilation Target
 - [x] Understanding TypeScript Core Libs
-- [ ] More Configuration & Compilation Options
+- [x] More Configuration & Compilation Options
 - [ ] Working with Source Maps
 - [ ] rootDir and outDir
 - [ ] Stop Emitting Files on Compilation Errors
