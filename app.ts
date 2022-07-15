@@ -1,1 +1,3 @@
-console.log('Initial version...');
+const userName = 'Maximilian';
+
+console.log(userName);

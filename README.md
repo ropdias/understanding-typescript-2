@@ -4,7 +4,7 @@ Examples from the **"Section 3: The TypeScript Compiler"** of the course **"Unde
 
 Section 3 (The TypeScript Compiler) covered:
 
-- [ ] Using "Watch Mode"
+- [x] Using "Watch Mode"
 - [ ] Compiling the Entire Project / Multiple Files
 - [ ] Including & Excluding Files
 - [ ] Setting a Compilation Target
